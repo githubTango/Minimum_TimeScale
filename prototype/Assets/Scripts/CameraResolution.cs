@@ -7,10 +7,8 @@ public class CameraResolution : MonoBehaviour
     // 카메라로 스마트폰 게임 화면비 고정
 
     // 고정할 화면비 지정
-    [SerializeField]
-    private float fix_width = 9;
-    [SerializeField]
-    private float fix_height = 16;
+    [SerializeField] private float fix_width = 9;
+    [SerializeField] private float fix_height = 16;
 
     private void Awake()
     {
