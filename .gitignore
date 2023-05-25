@@ -72,7 +72,7 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 # 라이브러리 폴더 제외
-/Library
+prototype/Library
 prototype/Library/AnnotationManager
 prototype/Library/APIUpdater/project-dependencies.graph
 prototype/Library/ArtifactDB
