@@ -72,7 +72,7 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 # 라이브러리 폴더 제외
-prototype/Library
+/Library
 prototype/Library/AnnotationManager
 prototype/Library/APIUpdater/project-dependencies.graph
 prototype/Library/ArtifactDB
@@ -22193,12 +22193,12 @@ prototype/Library/Artifacts/07/07077fa78a2c4ccd1f420090a0dc81ca
 prototype/Library/EditorInstance.json
 prototype/Library/ShaderCache/builtin/unity_builtin_extra0000/00/33ba14e695efeaf67a9bf1b3d4ad85f0.bin
 prototype/Library/ShaderCache/builtin/unity_builtin_extra0000/00/e71678aec62ffeee9901e4f403a72732.bin
-prototype/Library/Artifacts/13/135bed32508cff3fabc004308a22c12f
-prototype/Library/Artifacts/1b/1b8aeee6dfaee0db1692f7a286610369
-prototype/Library/Artifacts/24/2429f5731f507098f99d2d5eb603d3ce
-prototype/Library/Artifacts/45/4564db507bb3a42f431b67946eca3e1d
-prototype/Library/Artifacts/69/6926ac1593d1b8ee34d55fa9530e7570
-prototype/Library/Artifacts/9c/9c3c1367030447a974605198983bc133
-prototype/Library/Artifacts/c4/c4ca6db30944ea735706c0eb2271dfa1
-prototype/Library/Artifacts/d7/d7877a2c989202cad5fd28f19a869440
 prototype/Library/Artifacts/ff/ffd631df7ab8b1adc6779aee683e208b
+prototype/Library/Artifacts/d7/d7877a2c989202cad5fd28f19a869440
+prototype/Library/Artifacts/c4/c4ca6db30944ea735706c0eb2271dfa1
+prototype/Library/Artifacts/9c/9c3c1367030447a974605198983bc133
+prototype/Library/Artifacts/69/6926ac1593d1b8ee34d55fa9530e7570
+prototype/Library/Artifacts/45/4564db507bb3a42f431b67946eca3e1d
+prototype/Library/Artifacts/24/2429f5731f507098f99d2d5eb603d3ce
+prototype/Library/Artifacts/1b/1b8aeee6dfaee0db1692f7a286610369
+prototype/Library/Artifacts/13/135bed32508cff3fabc004308a22c12f
